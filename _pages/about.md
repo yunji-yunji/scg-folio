@@ -12,7 +12,11 @@ news: false
 social: false
 ---
 
-System Consultant Group is an organization affiliated to the College of Software and College of Information and Communication Engineering at SungKyunKwan University. We develop and manage 10+ websites that are used by our students, including the main pages of our affiliated colleges (cs.skku.ac.kr, icc.skku.ac.kr). In addition, we manage our college's servers and computers that are used for education purposes. Checkout more information at scg.skku.ac.kr.
+System Consultant Group is an organization affiliated to the College of Software and College of Information and Communication Engineering at SungKyunKwan University.
+
+We develop and manage 10+ websites that are used by our students, including the main pages of our affiliated colleges ([cs.skku.edu](https://cs.skku.edu){:target="\_blank"}, [icc.skku.ac.kr](http://icc.skku.ac.kr){:target="\_blank"}). 
+
+In addition, we manage our college's servers and computers that are used for education purposes. Checkout more information at [scg.skku.ac.kr](http://scg.skku.ac.kr){:target="\_blank"} (Korean).
 
 
 
