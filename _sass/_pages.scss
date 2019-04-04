@@ -1,5 +1,6 @@
 .page-content {
     padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+    min-height: calc(100vh - 235px);
 }
 .page-heading {
     font-size: 20px;
@@ -11,4 +12,8 @@
 }
 .center{
     text-align: center;
+}
+
+.post-title {
+    text-transform: capitalize;
 }

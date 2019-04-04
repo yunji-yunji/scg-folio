@@ -23,6 +23,9 @@ article a, .news a {
     &:hover { color: $theme-color; }
 }
 
+li a {
+    color: $text-color;
+}
 
 // a {
 //   color: $link-color;
