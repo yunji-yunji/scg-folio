@@ -13,9 +13,9 @@ profile:
 My name is JaeHeon Jeong, currently studying mathematics at SungKyunKwan University.
 
 <strong>Languages:</strong> Korean (native), English (beginner)  
-<strong>Programming Languages:</strong> C
+<strong>Programming Languages:</strong> C  
 <strong>Technologies/Environments:</strong> NodeJS, Windows, Git  
-<strong>School Activities:</strong> System Consultant Group, Cinevill 
+<strong>School Activities:</strong> System Consultant Group, Cinevill  
 
 <strong>Email:</strong> zeebraa00[AT]gmail[DOT]com  
 <strong>Phone:</strong> +82-10-9954-3468  
