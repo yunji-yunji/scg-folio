@@ -10,12 +10,12 @@ profile:
     
 ---
 
-My name is Jaewon Kim, currently studying electronic and electrical engineering at SungKyunKwan University. I am interested in computer security, computer network.
+My name is Jaewon Kim, currently studying electronic and electrical engineering at SungKyunKwan University. I am interested in computer security, computer network.  
 
-I have experience in developing DIscord Bot on .Net Corevwith C#. 
-<strong>Languages:</strong> Korean (native), English (fluent), Japanese (fluent)
+I have experience in developing DIscord Bot on .Net Corevwith C#.  
+<strong>Languages:</strong> Korean (native), English (fluent), Japanese (fluent) 
 <strong>Programming Languages:</strong> C, C#, Javascript, Python  
-<strong>Technologies/Environments:</strong> MySQL, Node.js, .Net Core, Windows, Linux
+<strong>Technologies/Environments:</strong> MySQL, Node.js, .Net Core, Windows, Linux  
 <strong>School Activities:</strong> System Consultant Group  
 
 <strong>Email:</strong> artx01[AT]scg[DOT]skku[DOT]ac[DOT]kr  
