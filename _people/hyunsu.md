@@ -17,7 +17,6 @@ In System Consultant Group, I took part in the front-end development of the SKKU
 <strong>Languages:</strong> Korean (native), English (fluent)  
 <strong>Programming Languages:</strong> C, C++, Javascript, Python  
 
-<strong>Programming Languages:</strong> C, C++, Java, Javascript, Python  
 <strong>Technologies/Environments:</strong> MySQL, NodeJS, AngularJS, Vue.js, Windows, Linux, Git  
 <strong>School Activities:</strong> SKKU Bug Bounty, System Consultant Group, IoT Coding School  
 
