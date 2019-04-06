@@ -5,8 +5,8 @@ title: Hee Yoon Jung
 description: System Consultant Group
 
 profile:
-name: HeeYoon Jung
-image: profile/jhy.jpg
+    name: HeeYoon Jung
+    image: profile/jhy.jpg
 
 ---
 
