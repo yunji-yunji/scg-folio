@@ -10,7 +10,11 @@ description: Our projects
 <div class="project ">
     <div class="box" style="box-shadow: 0 3px 5px 0 rgba(0,1,1,.1);">
         <div class="thumbnail">
-            <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+            {% if project.link %}
+                <a href="{{ project.link }}" target="_blank">
+            {% else %}
+                <!-- <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}"> -->
+            {% endif %}
             {% if project.img %}
             <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
             {% else %}

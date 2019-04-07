@@ -2,7 +2,8 @@
 layout: page
 title: icc.skku.edu
 description: College of Information and Communication Engineering webpage
-img: /assets/img/2.jpg
+img: /assets/img/project/icc.png
+link: http://icc.skku.ac.kr
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
