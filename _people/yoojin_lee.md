@@ -15,7 +15,7 @@ My name is Yoojin Lee, currently studying electronic and electrical engineering 
 <strong>Languages:</strong> Korean (native), English (basic)  
 <strong>Programming Languages:</strong> C, Java, Javascript  
 <strong>Technologies/Environments:</strong> SQL, NodeJS  
-<strong>School Activities:</strong> System Consultant Group  
+<strong>School Activities:</strong> System Consultant Group (2019.04~) 
 
 <strong>Email:</strong> cjdemforhs[AT]scg[DOT]skku[DOT]ac[DOT]kr  
 <strong>Phone:</strong> +82-10-5699-4341  
