@@ -17,9 +17,9 @@ In System Consultant Group, I took part in the  full stack development of the SK
 
 <strong>Languages:</strong> Korean (native), English (basic)  
 <strong>Programming Languages:</strong> C, C++, Javascript, Python  
-<strong>Technologies/Environments:</strong> MySQL, NodeJS, AngularJS, Vue.js, SDL2, Tkinter, Git   
+<strong>Technologies/Environments:</strong> MySQL, NodeJS, AngularJS, Vue.js, SDL2, Tkinter, Git , Arduino  
 <strong>School Activities:</strong> System Consultant Group
-
+<strong>Korean Conference Paper:</strong> "Internet-of-Things Based Fire Detection and Indoor Evacuation Navigation System", KICS-2018-Fall, November 2018.
 <strong>Email:</strong> kbn2778[AT]scg[DOT]skku[DOT]ac[DOT]kr  
 <strong>Phone:</strong> +82-10-2056-2778
 
