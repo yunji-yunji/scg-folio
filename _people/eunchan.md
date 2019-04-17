@@ -19,7 +19,7 @@ In System Consultant Group, I took part in the back-end development of SKKU Prof
 <strong>Languages:</strong> Korean (native), English (fluent), Chinese (conversant)  
 <strong>Programming Languages:</strong> C, C++, Java, Javascript, Python  
 <strong>Technologies/Environments:</strong> MySQL, SQLite, Android, Processing, NodeJS, AngularJS, Vue.js, Windows, Mac, Linux, Git, ROBOTC  
-<strong>School Activities:</strong> Student Council, Open-source Hackathon, SKKU Bug Bounty, System Consultant Group, IoT Workshop
+<strong>School Activities:</strong> Student Council (2017), Open-source Hackathon (2017), SKKU Bug Bounty (2017, 2018), System Consultant Group (2017 - Present), IoT Workshop (2018)
 
 <strong>Email:</strong> pec9399[AT]naver[DOT]com  
 <strong>Phone:</strong> +82-10-4439-9399
